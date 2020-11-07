@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ks-lib-example"
+    }
+  },
+  "defaultProject": "ks-lib-example",
+  "cli": {
+    "analytics": false
+  }
 }
